@@ -1,0 +1,9 @@
+{
+  "foot": "rigid",
+  "eng_weight": 0.0,
+  "trainer": "mjx",
+  "sim_dt": 0.001,
+  "foot_armature": -1.0,
+  "action_scale": 0.5,
+  "lr": 0.0003
+}
